@@ -18,7 +18,7 @@ solana_security_txt::security_txt! {
     auditors: ""
 }
 
-declare_id!("2Vq3XGx6PUNyczT7jNzfb3cKw4C6SAA5JfkP2H3q7hhP");
+declare_id!("73DSgY3VigDXoUK4FcD81M4YBv3GSgud7JoKDhEzaNFB");
 
 #[program]
 pub mod launchpad {

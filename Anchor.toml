@@ -1,9 +1,9 @@
 [features]
 seeds = false
 [programs.localnet]
-launchpad = "2Vq3XGx6PUNyczT7jNzfb3cKw4C6SAA5JfkP2H3q7hhP"
+launchpad = "73DSgY3VigDXoUK4FcD81M4YBv3GSgud7JoKDhEzaNFB"
 [programs.devnet]
-launchpad = "2Vq3XGx6PUNyczT7jNzfb3cKw4C6SAA5JfkP2H3q7hhP"
+launchpad = "73DSgY3VigDXoUK4FcD81M4YBv3GSgud7JoKDhEzaNFB"
 
 [registry]
 url = "https://anchor.projectserum.com"
